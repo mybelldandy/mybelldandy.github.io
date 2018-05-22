@@ -79,4 +79,4 @@ theme: landscape
 deploy: 
   type: git
   repository: git@github.com/mybelldandy/mybelldandy.github.io.git
-  branch: master
+  branch: Administrator
